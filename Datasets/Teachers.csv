@@ -1,0 +1,17 @@
+Teacher ID,Subject,Stream,Experience,Qualification
+T001,Biology,Science,Below 5 years,NCE
+T002,English Language,All,Above 5 years,B.Sc.
+T003,English Language,All,Below 5 years,B.Sc.
+T004,Chemistry,Science,Below 5 years,NCE
+T005,Physics,Science,Above 5 years,B.Sc.
+T006,Mathematics,All,Above 5 years,B.Sc.
+T007,Mathematics,All,Below 5 years,NCE
+T008,Accounting,Commercial,Below 5 years,B.Sc.
+T009,Business Studies,Commercial,Above 5 years,NCE
+T010,Economics,All,Above 5 years,B.Sc.
+T011,Economics,All,Above 5 years,B.Sc.
+T012,Commerce,Commercial,Above 5 years,B.Sc.
+T013,Literature-in-English,Art,Above 5 years,NCE
+T014,History,Art,Below 5 years,B.Sc.
+T015,Geography,Science,Below 5 years,NCE
+T016,Government,Art,Above 5 years,NCE
